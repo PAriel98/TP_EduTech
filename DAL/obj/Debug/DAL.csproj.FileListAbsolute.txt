@@ -1,0 +1,10 @@
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\DAL\bin\Debug\DAL.dll
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\DAL\bin\Debug\DAL.pdb
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\DAL\obj\Debug\DAL.dll
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\DAL\obj\Debug\DAL.pdb
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\DAL\bin\Debug\BE.dll
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\DAL\bin\Debug\BE.pdb
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\DAL\bin\Debug\BE.dll.config
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\DAL\obj\Debug\DAL.csproj.Up2Date

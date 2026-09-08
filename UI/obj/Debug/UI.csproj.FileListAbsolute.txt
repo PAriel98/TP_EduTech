@@ -1,0 +1,85 @@
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\UI\bin\Debug\UI.exe.config
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\UI\bin\Debug\UI.exe
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\UI\bin\Debug\UI.pdb
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\UI\obj\Debug\UI.Properties.Resources.resources
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\UI\obj\Debug\UI.csproj.GenerateResource.cache
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\UI\obj\Debug\UI.exe
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\UI\obj\Debug\UI.pdb
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\UI\bin\Debug\BE.dll
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\UI\bin\Debug\BLL.dll
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\UI\bin\Debug\BE.pdb
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\UI\bin\Debug\BE.dll.config
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\UI\bin\Debug\BLL.pdb
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\UI\obj\Debug\UI.exe.config
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\UI\obj\Debug\UI.csproj.Up2Date
+D:\avv\Proyectoarqdeso\programa\EduTech\UI\bin\Debug\UI.exe.config
+D:\avv\Proyectoarqdeso\programa\EduTech\UI\bin\Debug\UI.exe
+D:\avv\Proyectoarqdeso\programa\EduTech\UI\bin\Debug\UI.pdb
+D:\avv\Proyectoarqdeso\programa\EduTech\UI\bin\Debug\BE.dll
+D:\avv\Proyectoarqdeso\programa\EduTech\UI\bin\Debug\BLL.dll
+D:\avv\Proyectoarqdeso\programa\EduTech\UI\bin\Debug\BE.pdb
+D:\avv\Proyectoarqdeso\programa\EduTech\UI\bin\Debug\BE.dll.config
+D:\avv\Proyectoarqdeso\programa\EduTech\UI\bin\Debug\BLL.pdb
+D:\avv\Proyectoarqdeso\programa\EduTech\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+D:\avv\Proyectoarqdeso\programa\EduTech\UI\obj\Debug\UI.exe.config
+D:\avv\Proyectoarqdeso\programa\EduTech\UI\obj\Debug\UI.FormMDI.resources
+D:\avv\Proyectoarqdeso\programa\EduTech\UI\obj\Debug\UI.Properties.Resources.resources
+D:\avv\Proyectoarqdeso\programa\EduTech\UI\obj\Debug\UI.csproj.GenerateResource.cache
+D:\avv\Proyectoarqdeso\programa\EduTech\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+D:\avv\Proyectoarqdeso\programa\EduTech\UI\obj\Debug\UI.csproj.Up2Date
+D:\avv\Proyectoarqdeso\programa\EduTech\UI\obj\Debug\UI.exe
+D:\avv\Proyectoarqdeso\programa\EduTech\UI\obj\Debug\UI.pdb
+D:\avv\Proyectoarqdeso\programa\EduTech\UI\bin\Debug\SEGURIDAD.dll
+D:\avv\Proyectoarqdeso\programa\EduTech\UI\bin\Debug\SEGURIDAD.pdb
+D:\avv\Proyectoarqdeso\programa\EduTech\UI\obj\Debug\EduTech.FormABMFamilias.resources
+D:\avv\Proyectoarqdeso\programa\EduTech\UI\obj\Debug\EduTech.FormGestionarFamilia.resources
+D:\avv\Proyectoarqdeso\programa\EduTech\UI\obj\Debug\EduTech.FormNuevaFamilia.resources
+D:\avv\Proyectoarqdeso\programa\EduTech\UI\obj\Debug\EduTech.Login.resources
+D:\facultad\Desarrollo y Arquitectura de Software\avv\Proyectoarqdeso\programa\EduTech\UI\bin\Debug\UI.exe.config
+D:\facultad\Desarrollo y Arquitectura de Software\avv\Proyectoarqdeso\programa\EduTech\UI\bin\Debug\UI.exe
+D:\facultad\Desarrollo y Arquitectura de Software\avv\Proyectoarqdeso\programa\EduTech\UI\bin\Debug\UI.pdb
+D:\facultad\Desarrollo y Arquitectura de Software\avv\Proyectoarqdeso\programa\EduTech\UI\bin\Debug\BE.dll
+D:\facultad\Desarrollo y Arquitectura de Software\avv\Proyectoarqdeso\programa\EduTech\UI\bin\Debug\BLL.dll
+D:\facultad\Desarrollo y Arquitectura de Software\avv\Proyectoarqdeso\programa\EduTech\UI\bin\Debug\SEGURIDAD.dll
+D:\facultad\Desarrollo y Arquitectura de Software\avv\Proyectoarqdeso\programa\EduTech\UI\bin\Debug\BE.pdb
+D:\facultad\Desarrollo y Arquitectura de Software\avv\Proyectoarqdeso\programa\EduTech\UI\bin\Debug\BE.dll.config
+D:\facultad\Desarrollo y Arquitectura de Software\avv\Proyectoarqdeso\programa\EduTech\UI\bin\Debug\BLL.pdb
+D:\facultad\Desarrollo y Arquitectura de Software\avv\Proyectoarqdeso\programa\EduTech\UI\bin\Debug\SEGURIDAD.pdb
+D:\facultad\Desarrollo y Arquitectura de Software\avv\Proyectoarqdeso\programa\EduTech\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+D:\facultad\Desarrollo y Arquitectura de Software\avv\Proyectoarqdeso\programa\EduTech\UI\obj\Debug\EduTech.FormABMFamilias.resources
+D:\facultad\Desarrollo y Arquitectura de Software\avv\Proyectoarqdeso\programa\EduTech\UI\obj\Debug\EduTech.FormGestionarFamilia.resources
+D:\facultad\Desarrollo y Arquitectura de Software\avv\Proyectoarqdeso\programa\EduTech\UI\obj\Debug\UI.FormMDI.resources
+D:\facultad\Desarrollo y Arquitectura de Software\avv\Proyectoarqdeso\programa\EduTech\UI\obj\Debug\EduTech.FormNuevaFamilia.resources
+D:\facultad\Desarrollo y Arquitectura de Software\avv\Proyectoarqdeso\programa\EduTech\UI\obj\Debug\EduTech.Login.resources
+D:\facultad\Desarrollo y Arquitectura de Software\avv\Proyectoarqdeso\programa\EduTech\UI\obj\Debug\UI.Properties.Resources.resources
+D:\facultad\Desarrollo y Arquitectura de Software\avv\Proyectoarqdeso\programa\EduTech\UI\obj\Debug\UI.csproj.GenerateResource.cache
+D:\facultad\Desarrollo y Arquitectura de Software\avv\Proyectoarqdeso\programa\EduTech\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+D:\facultad\Desarrollo y Arquitectura de Software\avv\Proyectoarqdeso\programa\EduTech\UI\obj\Debug\UI.csproj.Up2Date
+D:\facultad\Desarrollo y Arquitectura de Software\avv\Proyectoarqdeso\programa\EduTech\UI\obj\Debug\UI.exe
+D:\facultad\Desarrollo y Arquitectura de Software\avv\Proyectoarqdeso\programa\EduTech\UI\obj\Debug\UI.pdb
+D:\avv\Proyecto EduTech\programa\EduTech\UI\bin\Debug\UI.exe.config
+D:\avv\Proyecto EduTech\programa\EduTech\UI\bin\Debug\UI.exe
+D:\avv\Proyecto EduTech\programa\EduTech\UI\bin\Debug\UI.pdb
+D:\avv\Proyecto EduTech\programa\EduTech\UI\bin\Debug\BE.dll
+D:\avv\Proyecto EduTech\programa\EduTech\UI\bin\Debug\BLL.dll
+D:\avv\Proyecto EduTech\programa\EduTech\UI\bin\Debug\SEGURIDAD.dll
+D:\avv\Proyecto EduTech\programa\EduTech\UI\bin\Debug\BE.pdb
+D:\avv\Proyecto EduTech\programa\EduTech\UI\bin\Debug\BE.dll.config
+D:\avv\Proyecto EduTech\programa\EduTech\UI\bin\Debug\BLL.pdb
+D:\avv\Proyecto EduTech\programa\EduTech\UI\bin\Debug\SEGURIDAD.pdb
+D:\avv\Proyecto EduTech\programa\EduTech\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+D:\avv\Proyecto EduTech\programa\EduTech\UI\obj\Debug\UI.exe.config
+D:\avv\Proyecto EduTech\programa\EduTech\UI\obj\Debug\EduTech.FormABMFamilias.resources
+D:\avv\Proyecto EduTech\programa\EduTech\UI\obj\Debug\EduTech.FormGestionarFamilia.resources
+D:\avv\Proyecto EduTech\programa\EduTech\UI\obj\Debug\UI.FormMDI.resources
+D:\avv\Proyecto EduTech\programa\EduTech\UI\obj\Debug\EduTech.FormNuevaFamilia.resources
+D:\avv\Proyecto EduTech\programa\EduTech\UI\obj\Debug\EduTech.Login.resources
+D:\avv\Proyecto EduTech\programa\EduTech\UI\obj\Debug\UI.Properties.Resources.resources
+D:\avv\Proyecto EduTech\programa\EduTech\UI\obj\Debug\UI.csproj.GenerateResource.cache
+D:\avv\Proyecto EduTech\programa\EduTech\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+D:\avv\Proyecto EduTech\programa\EduTech\UI\obj\Debug\UI.csproj.Up2Date
+D:\avv\Proyecto EduTech\programa\EduTech\UI\obj\Debug\UI.exe
+D:\avv\Proyecto EduTech\programa\EduTech\UI\obj\Debug\UI.pdb
+D:\avv\Proyecto EduTech\programa\EduTech\UI\obj\Debug\UI.FormAdministracion.resources

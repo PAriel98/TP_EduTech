@@ -1,0 +1,6 @@
+D:\avv\Proyectoarqdeso\programa\EduTech\IDIOMA\bin\Debug\IDIOMA.dll
+D:\avv\Proyectoarqdeso\programa\EduTech\IDIOMA\bin\Debug\IDIOMA.pdb
+D:\avv\Proyectoarqdeso\programa\EduTech\IDIOMA\obj\Debug\IDIOMA.csproj.AssemblyReference.cache
+D:\avv\Proyectoarqdeso\programa\EduTech\IDIOMA\obj\Debug\IDIOMA.csproj.CoreCompileInputs.cache
+D:\avv\Proyectoarqdeso\programa\EduTech\IDIOMA\obj\Debug\IDIOMA.dll
+D:\avv\Proyectoarqdeso\programa\EduTech\IDIOMA\obj\Debug\IDIOMA.pdb

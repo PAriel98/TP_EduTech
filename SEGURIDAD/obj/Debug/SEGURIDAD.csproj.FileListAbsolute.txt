@@ -1,0 +1,18 @@
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\SEGURIDAD\bin\Debug\SEGURIDAD.dll
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\SEGURIDAD\bin\Debug\SEGURIDAD.pdb
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\SEGURIDAD\obj\Debug\SEGURIDAD.csproj.AssemblyReference.cache
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\SEGURIDAD\obj\Debug\SEGURIDAD.csproj.CoreCompileInputs.cache
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\SEGURIDAD\obj\Debug\SEGURIDAD.dll
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\SEGURIDAD\obj\Debug\SEGURIDAD.pdb
+D:\avv\Proyectoarqdeso\programa\EduTech\SEGURIDAD\obj\Debug\SEGURIDAD.csproj.AssemblyReference.cache
+D:\avv\Proyectoarqdeso\programa\EduTech\SEGURIDAD\obj\Debug\SEGURIDAD.csproj.CoreCompileInputs.cache
+D:\avv\Proyectoarqdeso\programa\EduTech\SEGURIDAD\obj\Debug\SEGURIDAD.dll
+D:\avv\Proyectoarqdeso\programa\EduTech\SEGURIDAD\obj\Debug\SEGURIDAD.pdb
+D:\avv\Proyectoarqdeso\programa\EduTech\SEGURIDAD\bin\Debug\SEGURIDAD.dll
+D:\avv\Proyectoarqdeso\programa\EduTech\SEGURIDAD\bin\Debug\SEGURIDAD.pdb
+D:\facultad\Desarrollo y Arquitectura de Software\avv\Proyectoarqdeso\programa\EduTech\SEGURIDAD\bin\Debug\SEGURIDAD.dll
+D:\facultad\Desarrollo y Arquitectura de Software\avv\Proyectoarqdeso\programa\EduTech\SEGURIDAD\bin\Debug\SEGURIDAD.pdb
+D:\facultad\Desarrollo y Arquitectura de Software\avv\Proyectoarqdeso\programa\EduTech\SEGURIDAD\obj\Debug\SEGURIDAD.csproj.AssemblyReference.cache
+D:\facultad\Desarrollo y Arquitectura de Software\avv\Proyectoarqdeso\programa\EduTech\SEGURIDAD\obj\Debug\SEGURIDAD.csproj.CoreCompileInputs.cache
+D:\facultad\Desarrollo y Arquitectura de Software\avv\Proyectoarqdeso\programa\EduTech\SEGURIDAD\obj\Debug\SEGURIDAD.dll
+D:\facultad\Desarrollo y Arquitectura de Software\avv\Proyectoarqdeso\programa\EduTech\SEGURIDAD\obj\Debug\SEGURIDAD.pdb

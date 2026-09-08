@@ -1,0 +1,18 @@
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\MAPPER\bin\Debug\MAPPER.dll
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\MAPPER\bin\Debug\MAPPER.pdb
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\MAPPER\obj\Debug\MAPPER.csproj.AssemblyReference.cache
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\MAPPER\obj\Debug\MAPPER.csproj.CoreCompileInputs.cache
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\MAPPER\obj\Debug\MAPPER.dll
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\MAPPER\obj\Debug\MAPPER.pdb
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\MAPPER\bin\Debug\SEGURIDAD.dll
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\MAPPER\bin\Debug\SEGURIDAD.pdb
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\MAPPER\obj\Debug\MAPPER.csproj.Up2Date
+D:\avv\Proyectoarqdeso\programa\EduTech\MAPPER\bin\Debug\MAPPER.dll
+D:\avv\Proyectoarqdeso\programa\EduTech\MAPPER\bin\Debug\MAPPER.pdb
+D:\avv\Proyectoarqdeso\programa\EduTech\MAPPER\bin\Debug\SEGURIDAD.dll
+D:\avv\Proyectoarqdeso\programa\EduTech\MAPPER\bin\Debug\SEGURIDAD.pdb
+D:\avv\Proyectoarqdeso\programa\EduTech\MAPPER\obj\Debug\MAPPER.csproj.AssemblyReference.cache
+D:\avv\Proyectoarqdeso\programa\EduTech\MAPPER\obj\Debug\MAPPER.csproj.CoreCompileInputs.cache
+D:\avv\Proyectoarqdeso\programa\EduTech\MAPPER\obj\Debug\MAPPER.csproj.Up2Date
+D:\avv\Proyectoarqdeso\programa\EduTech\MAPPER\obj\Debug\MAPPER.dll
+D:\avv\Proyectoarqdeso\programa\EduTech\MAPPER\obj\Debug\MAPPER.pdb

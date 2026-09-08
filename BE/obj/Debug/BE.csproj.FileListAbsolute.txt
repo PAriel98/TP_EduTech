@@ -1,0 +1,7 @@
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\BE\bin\Debug\BE.dll
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\BE\bin\Debug\BE.pdb
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\BE\obj\Debug\BE.dll
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\BE\obj\Debug\BE.pdb
+D:\avv 18-8\Proyectoarqdeso\programa\EduTech\BE\bin\Debug\BE.dll.config

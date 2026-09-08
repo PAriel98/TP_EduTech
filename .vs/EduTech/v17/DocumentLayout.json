@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\avv\\Proyecto EduTech\\programa\\EduTech\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72166C7A-4E3B-45BE-9C7D-CC5DD97AC3A3}|UI\\UI.csproj|d:\\avv\\proyecto edutech\\programa\\edutech\\ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{72166C7A-4E3B-45BE-9C7D-CC5DD97AC3A3}|UI\\UI.csproj|solutionrelative:ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72166C7A-4E3B-45BE-9C7D-CC5DD97AC3A3}|UI\\UI.csproj|D:\\avv\\Proyecto EduTech\\programa\\EduTech\\ui\\formmdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{72166C7A-4E3B-45BE-9C7D-CC5DD97AC3A3}|UI\\UI.csproj|solutionrelative:ui\\formmdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\avv\\Proyecto EduTech\\programa\\EduTech\\UI\\Login.cs",
+              "RelativeDocumentMoniker": "UI\\Login.cs",
+              "ToolTip": "D:\\avv\\Proyecto EduTech\\programa\\EduTech\\UI\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "UI\\Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T15:36:37.819Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormMDI.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\avv\\Proyecto EduTech\\programa\\EduTech\\UI\\FormMDI.cs",
+              "RelativeDocumentMoniker": "UI\\FormMDI.cs",
+              "ToolTip": "D:\\avv\\Proyecto EduTech\\programa\\EduTech\\UI\\FormMDI.cs [Dise\u00F1o]",
+              "RelativeToolTip": "UI\\FormMDI.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T12:35:59.157Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
